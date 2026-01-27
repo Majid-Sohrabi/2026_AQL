@@ -10,7 +10,7 @@ I will collect your home assignment solutions through your private GitHub reposi
 
 #	File	Deadline
 
-| 01 | |  |
+| 01 | [02-optimality-relaxations-bounds/sem02_AQL.ipynb](02-optimality-relaxations-bounds/sem02_AQL.ipynb)| January 28, 2025. 11:59 pm |
 | -- | ------------------------| ------- |
 | 02 |   |  |
 | 03 |   |  |
